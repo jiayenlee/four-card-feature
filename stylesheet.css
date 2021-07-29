@@ -1,0 +1,54 @@
+.base {
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+  padding: 30px;
+}
+
+.header {
+  text-align: center;
+}
+
+.header > h2 {
+  font-weight: lighter;
+  font-size: 30px;
+}
+
+.main-container {
+  width: 90%;
+  margin: auto;
+  padding: 20px 0;
+}
+
+.cards {
+  width: 25%;
+  height: 20vh;
+  position: relative;
+  box-shadow: 2px 2px 0 1px #c7c6c6;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.card1 {
+  margin-left: 38%;
+  border-top: 7px solid chartreuse;
+}
+
+.card2 {
+  margin-left: 75%;
+  margin-top: -10%;
+  border-top: 7px solid yellow;
+}
+
+.card3 {
+  margin-left: 38%;
+  margin-top: -5%;
+  border-top: 7px solid rgb(13, 13, 202);
+}
+
+.card4 {
+  margin-top: -31%;
+  margin-left: 30px;
+  border-top: 7px solid orangered;
+}
+
